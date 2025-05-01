@@ -4,7 +4,7 @@
 
 ### Links Importantes
 
-- [Landing Page]([https://681278ca3b4a9.site123.me/])
+- [Landing Page](https://681278ca3b4a9.site123.me/)
   
 - [Acesse o bot no Telegram](https://t.me/furiac5_bot) 
  
