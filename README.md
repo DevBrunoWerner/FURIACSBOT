@@ -10,7 +10,7 @@
   
 - [Acesse o bot no Telegram](https://t.me/furiac5_bot) 
  
-- [Vídeo demo](https://youtu.be/5l42Pns33Bw)
+- [Vídeo demo](https://youtu.be/lP32k0X8f0A)
 
 ### Funcionalidades
 
