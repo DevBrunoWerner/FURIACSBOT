@@ -4,6 +4,8 @@
 
 ### Links Importantes
 
+- [Documentação Completa](https://github.com/DevBrunoWerner/FURIACSBOT/tree/b525288c3727e5ff2234a425ae969b38fe43446f/Documenta%C3%A7%C3%A3o)
+
 - [Landing Page](https://681278ca3b4a9.site123.me/)
   
 - [Acesse o bot no Telegram](https://t.me/furiac5_bot) 
