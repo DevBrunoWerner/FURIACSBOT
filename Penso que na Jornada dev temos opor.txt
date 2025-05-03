@@ -1,4 +1,0 @@
-Penso que na Jornada dev temos oportunidades (raras) de mostrarmos para as empresas qual a nossa capacidade de criatividade, com o desafio proposto pelo processo seletivo da FURIA, tentei dar meu máximo para construir um bot informativo sobre o time de CS2 deles. Usando Python, a biblioteca de Bots do Telegram, e uma API de noticias, configurei um bot que informa o user de acordo com as suas preferências.
-
-Acesse aqui a Video demo, o repositório e a landing page.
-
