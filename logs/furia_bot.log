@@ -1,0 +1,30 @@
+2025-05-03 13:44:31,929 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 13:44:31,930 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 13:44:33,359 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 13:44:33,359 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 13:51:40,504 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 13:51:40,505 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 13:52:52,933 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 13:53:10,498 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:16:24,200 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:16:24,646 - FuriaBot - ERROR - Erro ao tentar responder com mensagem: httpx.ConnectError: 
+2025-05-03 14:17:04,807 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:17:04,808 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:17:06,262 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:17:06,263 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:19:54,513 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:19:54,514 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:21:09,874 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:21:09,875 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:22:26,944 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:22:27,392 - FuriaBot - ERROR - Erro ao tentar responder com mensagem: httpx.ConnectError: 
+2025-05-03 14:24:35,481 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:25:38,106 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:25:38,551 - FuriaBot - ERROR - Erro ao tentar responder com mensagem: httpx.ConnectError: 
+2025-05-03 14:26:41,486 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:26:41,487 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:27:51,299 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:27:51,300 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:27:52,340 - FuriaBot - ERROR - Erro detectado: httpx.ConnectError: 
+2025-05-03 14:27:52,341 - FuriaBot - ERROR - Não foi possível responder ao usuário, pois não havia uma mensagem válida no update.
+2025-05-03 14:29:03,096 - FuriaBot - ERROR - Erro ao enviar a notícia: httpx.ConnectError: 
